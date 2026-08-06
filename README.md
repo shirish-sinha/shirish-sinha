@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shirish Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Figma, JS, Python, Git/Github**
+- 🌱 I’m currently working on **Figma, JS, Python, Git/Github**
 
-- 📫 How to reach me **sinhashirishcg@gmail.com**
+- 📫 Contact me on **sinhashirishcg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
