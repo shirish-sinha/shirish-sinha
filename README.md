@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Figma, JS, Python, Git/Github**
 
-- 📫 Contact me on **sinhashirishcg@gmail.com**
+- 📫 Contact me on: **sinhashirishcg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
